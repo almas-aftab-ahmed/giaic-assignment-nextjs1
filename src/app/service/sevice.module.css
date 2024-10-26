@@ -1,0 +1,21 @@
+.service{
+    color: aquamarine;
+    background-color: blueviolet;
+    padding: 20px;
+    text-align: center;
+};
+
+.footer{
+    background-color: aliceblue;
+    color: black;
+    text-align: center;
+    padding: 20px;
+
+};
+
+.title{
+    background-color: blanchedalmond;
+    color: darksalmon;
+    text-align: center;
+    padding: 20px;
+};
